@@ -1,0 +1,7 @@
+C:\Users\ASidorchuk\Documents\Visual Studio 2017\Projects\DiplomaExperiments\DiplomaExperiments\bin\Debug\DiplomaExperiments.exe.config
+C:\Users\ASidorchuk\Documents\Visual Studio 2017\Projects\DiplomaExperiments\DiplomaExperiments\bin\Debug\DiplomaExperiments.exe
+C:\Users\ASidorchuk\Documents\Visual Studio 2017\Projects\DiplomaExperiments\DiplomaExperiments\bin\Debug\DiplomaExperiments.pdb
+C:\Users\ASidorchuk\Documents\Visual Studio 2017\Projects\DiplomaExperiments\DiplomaExperiments\obj\Debug\DiplomaExperiments.csprojResolveAssemblyReference.cache
+C:\Users\ASidorchuk\Documents\Visual Studio 2017\Projects\DiplomaExperiments\DiplomaExperiments\obj\Debug\DiplomaExperiments.csproj.CoreCompileInputs.cache
+C:\Users\ASidorchuk\Documents\Visual Studio 2017\Projects\DiplomaExperiments\DiplomaExperiments\obj\Debug\DiplomaExperiments.exe
+C:\Users\ASidorchuk\Documents\Visual Studio 2017\Projects\DiplomaExperiments\DiplomaExperiments\obj\Debug\DiplomaExperiments.pdb
